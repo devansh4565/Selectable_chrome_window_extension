@@ -1,4 +1,5 @@
 # WindowWarp
+![WindowWarp Logo](./assets/icon.png)
 Warp Your Links Between Windows — Like Magic.
 
 Ever found yourself juggling two browser windows and thinking, “Why can’t I just send this link to the other one already?” — Yeah, same.
