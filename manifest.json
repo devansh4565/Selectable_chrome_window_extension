@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Open Link in Specific Window",
+  "version": "1.0",
+  "permissions": ["contextMenus", "tabs", "windows", "storage"],
+  "background": {
+    "service_worker": "background.js"
+  },
+    "action": {
+    "default_popup": "popup.html"
+  }
+}
