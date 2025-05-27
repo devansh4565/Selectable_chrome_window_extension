@@ -46,4 +46,4 @@ We don’t collect, store, or sell anything. Period.
 Help shape the future of WindowWarp! Got an idea? Hit us up. We’re constantly improving based on what you need.
 
 👉 Get it on Microsoft Edge Add-ons
-
+https://microsoftedge.microsoft.com/addons/detail/windowwarp-open-link-in-/bgebcgkcmniodlmlppiikjapmmljcheh
